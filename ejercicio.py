@@ -1,6 +1,6 @@
 # -----------------------------------------------------
 # Nombre del estudiante: Danna Valeria Uribe Santiago
-# Grupo: [Tu Grupo]
+# Grupo: 213022_270
 # Programa: Ingeniería de Sistemas
 # Código Fuente: autoría propia
 # -----------------------------------------------------
