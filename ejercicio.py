@@ -57,7 +57,6 @@ else:
 
 print("Resultado del análisis:", resultado)
 
-"""  danna Uriebe Santiago"""
 
 # -----------------------------------------------------
 # Tabla de referencia de hemoglobina (g/dL)
