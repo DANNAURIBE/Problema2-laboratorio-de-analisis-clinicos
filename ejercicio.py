@@ -57,6 +57,7 @@ else:
 
 print("Resultado del análisis:", resultado)
 
+"""  danna  """
 
 # -----------------------------------------------------
 # Tabla de referencia de hemoglobina (g/dL)
